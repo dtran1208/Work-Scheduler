@@ -29,14 +29,6 @@ A simple calendar app for scheduling your work day during standard business hour
 2. Click the save button (disk icon) to save the event
 3. Saved events will persist even after refreshing the page or closing the browser
 
-## Dependencies
-
-- [Bootstrap 5.1.3](https://getbootstrap.com/)
-- [jQuery 3.4.1](https://jquery.com/)
-- [Font Awesome 5.8.1](https://fontawesome.com/)
-- [Google Fonts - Open Sans](https://fonts.google.com/specimen/Open+Sans)
-- [dayjs 1.11.3](https://day.js.org/)
-
 ## Credits
 
-- Your Name (or your GitHub username)
+- Duc Tran
